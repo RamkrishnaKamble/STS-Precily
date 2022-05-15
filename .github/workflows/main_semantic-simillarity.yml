@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'semantic-simillarity'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_42A6EFDBEFC64104B785C7DFD4AD43AB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_434D70796657467B97892FD346BB2D11 }}
